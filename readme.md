@@ -29,6 +29,8 @@ Proyek Integrasi OOP & Modularisasi (Minggu 9–10)
 * `pip install -r requirements.txt`
 
 ---
+4. Cara menjalankan
+* `python app.py`
 
 ### Structure Csv
 
