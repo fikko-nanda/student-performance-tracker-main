@@ -1,0 +1,6 @@
+# Student Performance Tracker
+python>=3.8
+
+# Library
+os
+csv
