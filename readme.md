@@ -32,6 +32,8 @@ Proyek Integrasi OOP & Modularisasi (Minggu 9–10)
 4. Cara menjalankan
 * `python app.py`
 
+5. Pilih menu sesuai yang di inginkan
+
 ### Structure Csv
 
 data/attendance.csv
